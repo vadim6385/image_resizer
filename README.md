@@ -82,7 +82,7 @@ Pillow>=10.0.0
 
 ## 🧑‍💻 Author
 
-Developed by [Your Name]
+Developed by Vadim Darchuk
 Feel free to fork, improve, or open issues on GitHub.
 
 ---
