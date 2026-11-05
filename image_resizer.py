@@ -5,6 +5,8 @@ import tkinter as tk
 from tkinter import filedialog, scrolledtext, ttk, messagebox
 from PIL import Image
 
+root = tk.Tk()
+
 # Global variables
 stop_flag = False
 total_files = 0
@@ -165,7 +167,6 @@ def show_summary_popup():
     )
 
 # GUI setup
-root = tk.Tk()
 root.title("Image Resizer (Custom Resolution + Summary)")
 root.geometry("900x780")
 
